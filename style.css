@@ -718,7 +718,7 @@ img.is-icon {
 
 
 /* 
-ここからレスポンシブ対応
+レスポンシブ対応
 */
 @media screen and (max-width: 800px) {
   /* 

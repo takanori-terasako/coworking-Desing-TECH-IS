@@ -283,6 +283,12 @@
 
 
 
+
+
+/*
+css_start
+*/
+
 /* 
 body
 */
@@ -709,6 +715,11 @@ img.is-icon {
   right: 14px;
 }
 
+
+
+/* 
+ここからレスポンシブ対応
+*/
 @media screen and (max-width: 800px) {
   /* 
   header
